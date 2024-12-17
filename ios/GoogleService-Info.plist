@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>360603951996-a2s57iq1rtup2gu080if0rv58r0i71um.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.360603951996-a2s57iq1rtup2gu080if0rv58r0i71um</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDamQPQoqWpV27y11r-hg9vSoR_nXPj0Lw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>360603951996</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.TryperdiemApp</string>
+	<key>PROJECT_ID</key>
+	<string>tryperdiem-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tryperdiem-test.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:360603951996:ios:36d25f55a1777fad737af9</string>
+</dict>
+</plist>

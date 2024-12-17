@@ -1,0 +1,4 @@
+export enum QueryKeys {
+  GET_POKEMONS = 'POKEMONS',
+  GET_ONE_POKEMON = 'GET_ONE_POKEMON'
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "360603951996",
+    "project_id": "tryperdiem-test",
+    "storage_bucket": "tryperdiem-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360603951996:android:47c21e63c36d557b737af9",
+        "android_client_info": {
+          "package_name": "com.tryperdiemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360603951996-5r8cvqs610rsru6qp6nr47jsrghf1pr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tryperdiemapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "360603951996-vojjo3o74ugumh3g2o0nqr17c7kbqhpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQDl8P9jb48Rj0HBR23Ko8G3KaT3Ywq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360603951996-vojjo3o74ugumh3g2o0nqr17c7kbqhpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360603951996-a2s57iq1rtup2gu080if0rv58r0i71um.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TryperdiemApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
